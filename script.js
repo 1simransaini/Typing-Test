@@ -9,8 +9,9 @@ let startTime, endTime, totalTimeTaken;
 
 
 const sentences = ['The quick brown fox jumps over the lazy dog 1',
-    'The quick brown fox jumps over the lazy dog 2',
-    'The quick brown fox jumps over the lazy dog 3 ']
+    'After all, you're only an immortal until someone manages to kill you.',
+    'Time plays like an accordion in the way it can stretch out and compress itself in a thousand melodic ways.'
+    'Life is beautiful, as long as it consumes you.']
 
 // step 5
 
@@ -147,6 +148,6 @@ btn.addEventListener('click', () => {
 //             typing_ground.setAttribute('disabled','true');
 //             endTyping();
 //             break;
-//     }
-// })    
+//    }
+// })  
 
