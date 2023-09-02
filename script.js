@@ -7,10 +7,9 @@ const show_sentence = document.querySelector('#showSentence');
 
 let startTime, endTime, totalTimeTaken;
 
-
 const sentences = ['The quick brown fox jumps over the lazy dog 1',
-    'After all, you're only an immortal until someone manages to kill you.',
-    'Time plays like an accordion in the way it can stretch out and compress itself in a thousand melodic ways.'
+    'After all, youre only an immortal until someone manages to kill you.',
+    'Time plays like an accordion it can stretch and compress itself in a thousand melodic ways.',
     'Life is beautiful, as long as it consumes you.']
 
 // step 5
