@@ -58,8 +58,6 @@ const startTyping = () => {
 }
 
 
-
-
 // step 2
 btn.addEventListener('click', () => {
     switch (btn.innerText.toLowerCase()) {
