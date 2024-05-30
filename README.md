@@ -1,4 +1,4 @@
-<h1 align='center'><b>💥 Typing Speed Test 💥</b></h1>
+<h1 align='center'><b>💥 Typing Test 💥</b></h1>
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
@@ -35,7 +35,7 @@
 
 <div>
   <!-- <p>Add Description of the project</p> -->
-    <p>The Typing Speed Test allows users to measure their typing speed, including metrics such as Words Per Minute (WPM), Characters Per Minute (CPM), and accuracy. The test lasts for a maximum of 60 seconds. Once typing begins, the remaining time, number of mistakes, WPM, and CPM are displayed at the bottom of the interface.</p>
+    <p>The Typing Test allows users to measure their typing speed, including metrics such as Words Per Minute (WPM), Characters Per Minute (CPM), and accuracy. The test lasts for a maximum of 60 seconds. Once typing begins, the remaining time, number of mistakes, WPM, and CPM are displayed at the bottom of the interface.</p>
 </div>
 
 
@@ -43,28 +43,28 @@
 
 ## :zap: How to run it? 🕹️
 
-To run the Typing Speed Test Game, follow these steps:
+To run the Typing Test, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/1simransaini/Typing-Speed-Test.git
+    git clone https://github.com/1simransaini/Typing-Test.git
     ```
 
 2. **Navigate to the project directory**:
     ```sh
-    cd Typing-Speed-Test
+    cd Typing-Test
     ```
 
 3. **Open the `index.html` file**:
     - You can do this by double-clicking on the `index.html` file in the project directory. This will open the file in your default web browser.
     - Alternatively, you can open the file directly from your web browser by using the "Open File" option.
 
-4. **Play the game and test your typing speed**:
-    - Once the game loads in your browser, start typing in the input field to begin the test.
+4. **Test your typing speed**:
+    - Once the test loads in your browser, start typing in the input field to begin the test.
     - Follow the on-screen instructions to type the displayed text as quickly and accurately as possible.
-    - The game will display your typing speed (WPM), mistakes, and other statistics.
+    - The test result will display your typing speed (WPM), mistakes, and other statistics.
 
-Enjoy improving your typing skills with the Typing Speed Test!
+Enjoy improving your typing skills with the Typing Test!
 
 <!-- -------------------------------------------------------------------------------------------------------------- -->
 
